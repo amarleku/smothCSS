@@ -90,40 +90,137 @@ body {
 }
 /* Padding Top */
 .padding-t-xs {
-    padding: 0.5rem;
-  }
-  .padding-t-s {
-    padding: 1rem;
-  }
-  .padding-t-m {
-    padding: 2rem;
-  }
-  .padding-t-l {
-    padding: 3rem;
-  }
-  .padding-t-xl {
-    padding: 4rem;
-  }
-  .padding-t-xxl {
-    padding: 5rem;
-  }
-  /* Padding Bottom */
-  .padding-b-xs {
-    padding: 0.5rem;
-  }
-  .padding-b-s {
-    padding: 1rem;
-  }
-  .padding-b-m {
-    padding: 2rem;
-  }
-  .padding-b-l {
-    padding: 3rem;
-  }
-  .padding-b-xl {
-    padding: 4rem;
-  }
-  .padding-b-xxl {
-    padding: 5rem;
-  }
+  padding: 0.5rem;
+}
+.padding-t-s {
+  padding: 1rem;
+}
+.padding-t-m {
+  padding: 2rem;
+}
+.padding-t-l {
+  padding: 3rem;
+}
+.padding-t-xl {
+  padding: 4rem;
+}
+.padding-t-xxl {
+  padding: 5rem;
+}
+/* Padding Bottom */
+.padding-b-xs {
+  padding: 0.5rem;
+}
+.padding-b-s {
+  padding: 1rem;
+}
+.padding-b-m {
+  padding: 2rem;
+}
+.padding-b-l {
+  padding: 3rem;
+}
+.padding-b-xl {
+  padding: 4rem;
+}
+.padding-b-xxl {
+  padding: 5rem;
+}
 /* End Padding */
+
+/* Start Margin */
+.margin-xs {
+  padding: 0.5rem;
+}
+.margin-s {
+  padding: 1rem;
+}
+.margin-m {
+  padding: 2rem;
+}
+.margin-l {
+  padding: 3rem;
+}
+.margin-xl {
+  padding: 4rem;
+}
+.margin-xxl {
+  padding: 5rem;
+}
+/* Margin Padding */
+.margin-r-xs {
+  padding: 0.5rem;
+}
+.margin-r-s {
+  padding: 1rem;
+}
+.margin-r-m {
+  padding: 2rem;
+}
+.margin-r-l {
+  padding: 3rem;
+}
+.margin-r-xl {
+  padding: 4rem;
+}
+.margin-r-xxl {
+  padding: 5rem;
+}
+/* Margin Padding */
+.margin-l-xs {
+  padding: 0.5rem;
+}
+.margin-l-s {
+  padding: 1rem;
+}
+.margin-l-m {
+  padding: 2rem;
+}
+.margin-l-l {
+  padding: 3rem;
+}
+.margin-l-xl {
+  padding: 4rem;
+}
+.margin-l-xxl {
+  padding: 5rem;
+}
+/* Margin Top */
+.margin-t-xs {
+  padding: 0.5rem;
+}
+.margin-t-s {
+  padding: 1rem;
+}
+.margin-t-m {
+  padding: 2rem;
+}
+.margin-t-l {
+  padding: 3rem;
+}
+.margin-t-xl {
+  padding: 4rem;
+}
+.margin-t-xxl {
+  padding: 5rem;
+}
+/* Margin Bottom */
+.margin-b-xs {
+  padding: 0.5rem;
+}
+.margin-b-s {
+  padding: 1rem;
+}
+.margin-b-m {
+  padding: 2rem;
+}
+.margin-b-l {
+  padding: 3rem;
+}
+.margin-b-xl {
+  padding: 4rem;
+}
+.margin-b-xxl {
+  padding: 5rem;
+}
+/* End Margin */
