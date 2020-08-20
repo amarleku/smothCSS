@@ -1,3 +1,5 @@
 {
-    "name": "smothCSS"
+    "name": "smothCSS",
+    "version": "1.0.0",
+    "description": "Minimalistic CSS library Designed by code"
 }
