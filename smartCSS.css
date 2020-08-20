@@ -298,36 +298,36 @@ select {
   cursor: pointer;
 }
 .button-red {
-    color: white;
-    background-color: #d63031;
-    padding: 14px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  .button-purple {
-    color: white;
-    background-color: #6c5ce7;
-    padding: 14px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  .button-pink {
-    color: white;
-    background-color: #e84393;
-    padding: 14px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  .button-info {
-    color: white;
-    background-color: #0984e3;
-    padding: 14px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
+  color: white;
+  background-color: #d63031;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button-purple {
+  color: white;
+  background-color: #6c5ce7;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button-pink {
+  color: white;
+  background-color: #e84393;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button-info {
+  color: white;
+  background-color: #0984e3;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
 /* Buttons */
