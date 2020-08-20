@@ -71,21 +71,59 @@ body {
 }
 /* Left Padding */
 .padding-l-xs {
+  padding: 0.5rem;
+}
+.padding-l-s {
+  padding: 1rem;
+}
+.padding-l-m {
+  padding: 2rem;
+}
+.padding-l-l {
+  padding: 3rem;
+}
+.padding-l-xl {
+  padding: 4rem;
+}
+.padding-l-xxl {
+  padding: 5rem;
+}
+/* Padding Top */
+.padding-t-xs {
     padding: 0.5rem;
   }
-  .padding-l-s {
+  .padding-t-s {
     padding: 1rem;
   }
-  .padding-l-m {
+  .padding-t-m {
     padding: 2rem;
   }
-  .padding-l-l {
+  .padding-t-l {
     padding: 3rem;
   }
-  .padding-l-xl {
+  .padding-t-xl {
     padding: 4rem;
   }
-  .padding-l-xxl {
+  .padding-t-xxl {
+    padding: 5rem;
+  }
+  /* Padding Bottom */
+  .padding-b-xs {
+    padding: 0.5rem;
+  }
+  .padding-b-s {
+    padding: 1rem;
+  }
+  .padding-b-m {
+    padding: 2rem;
+  }
+  .padding-b-l {
+    padding: 3rem;
+  }
+  .padding-b-xl {
+    padding: 4rem;
+  }
+  .padding-b-xxl {
     padding: 5rem;
   }
 /* End Padding */
