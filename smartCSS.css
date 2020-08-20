@@ -15,18 +15,39 @@ body {
   font-size: 1rem;
 }
 .size-s {
-    font-size: 2rem;
-  }
-  .size-m {
-    font-size: 3rem;
-  }
-  .size-l {
-    font-size: 4rem;
-  }
-  .size-xl {
-    font-size: 5rem;
-  }
-  .size-xxl {
-    font-size: 1rem;
-  }
+  font-size: 2rem;
+}
+.size-m {
+  font-size: 3rem;
+}
+.size-l {
+  font-size: 4rem;
+}
+.size-xl {
+  font-size: 5rem;
+}
+.size-xxl {
+  font-size: 1rem;
+}
 /* End Size's */
+
+/* Start Padding */
+.padding-xs {
+  padding: 0.5rem;
+}
+.padding-s {
+  padding: 1rem;
+}
+.padding-m {
+  padding: 2rem;
+}
+.padding-l {
+  padding: 3rem;
+}
+.padding-xl {
+  padding: 4rem;
+}
+.padding-xxl {
+  padding: 5rem;
+}
+/* End Padding */
