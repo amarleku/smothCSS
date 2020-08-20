@@ -224,3 +224,24 @@ body {
   padding: 5rem;
 }
 /* End Margin */
+
+/* Start Text Aligns */
+.center{
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.inherit {
+    text-align: inherit;
+}
+/* End Text Aligns */
