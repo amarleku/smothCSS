@@ -226,22 +226,22 @@ body {
 /* End Margin */
 
 /* Start Text Aligns */
-.center{
-    text-align: center;
+.center {
+  text-align: center;
 }
 .right {
-    text-align: right;
+  text-align: right;
 }
 
 .left {
-    text-align: left;
+  text-align: left;
 }
 
 .justify {
-    text-align: justify;
+  text-align: justify;
 }
 
 .inherit {
-    text-align: inherit;
+  text-align: inherit;
 }
 /* End Text Aligns */
