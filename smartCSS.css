@@ -50,4 +50,23 @@ body {
 .padding-xxl {
   padding: 5rem;
 }
+/* Right Padding */
+.padding-r-xs {
+    padding: 0.5rem;
+  }
+  .padding-r-s {
+    padding: 1rem;
+  }
+  .padding-r-m {
+    padding: 2rem;
+  }
+  .padding-r-l {
+    padding: 3rem;
+  }
+  .padding-r-xl {
+    padding: 4rem;
+  }
+  .padding-r-xxl {
+    padding: 5rem;
+  }
 /* End Padding */
