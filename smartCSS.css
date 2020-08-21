@@ -368,11 +368,17 @@ select {
 /* Buttons end*/
 /* start Container */
 .container {
-  padding: 0.01em 16px;
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: auto;
+  margin-left: auto;
 }
 /* Container-Fluid */
-.container {
-  padding: 0.9em 16px;
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 /* End Container */
 
