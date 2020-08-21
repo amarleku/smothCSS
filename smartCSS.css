@@ -1,5 +1,5 @@
 :root {
-    
+
 }
 
 html {
@@ -460,3 +460,25 @@ select {
   background-color: #f1f1f1;
 }
 /* Tables end */
+
+/* A href */
+.a-red {
+    color: rgba(212, 18, 18, 0.87);
+    text-decoration: rgba(212, 18, 18, 0.87) underline;
+}
+
+.a-yellow {
+    color: rgba(212, 212, 18, 0.87);
+    text-decoration: rgba(212, 212, 18, 0.87) underline;
+}
+
+.a-blue {
+    color: rgb(0, 81, 255);
+    text-decoration: rgb(0, 81, 255) underline;
+}
+
+.a-green {
+    color: rgba(18, 212, 18, 0.87);
+    text-decoration: rgba(18, 212, 18, 0.87) underline;
+}
+/* A Href */
