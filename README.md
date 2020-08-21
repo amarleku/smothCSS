@@ -1,2 +1,1 @@
-# smothCSS
-New CSS Framework.
+<h1>Welcome to SmothCss</h1>
