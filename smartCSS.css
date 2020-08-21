@@ -377,48 +377,85 @@ select {
 /* End Container */
 
 /* background Colors */
+/* Red */
 .red {
   color: #fff !important;
   background-color: #f44336 !important;
 }
+/* Green */
 .green {
   color: #fff !important;
   background-color: #2ecc71 !important;
 }
+/* Blue */
 .blue {
   color: #fff !important;
   background-color: #3498db !important;
 }
+/* Purple */
 .purple {
   color: #fff !important;
   background-color: #9b59b6 !important;
 }
+/* WeetAsphalt */
 .wet-asplaht {
   color: #fff !important;
   background-color: #34495e !important;
 }
+/* GreenSea */
 .green-sea {
   color: #fff !important;
   background-color: #16a085 !important;
 }
+/* Clouds */
 .clouds {
   color: #34495e !important;
   background-color: #ecf0f1 !important;
 }
+/* Concrete */
 .concrete {
   color: #fff !important;
   background-color: #95a5a6 !important;
 }
+/* Pomegrante */
 .pomegrante {
   color: #fff !important;
   background-color: #c0392b !important;
 }
+/* Pumpkin */
 .pumpkin {
   color: #fff !important;
   background-color: #d35400 !important;
 }
+/* Orange */
 .orange {
   color: #fff !important;
   background-color: #f39c12 !important;
 }
 /* Background colors */
+
+/* Tables start */
+.table,
+.table-all {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  display: table;
+}
+.table-all {
+  border: 1px solid #ccc;
+}
+.bordered tr,
+.table-all tr {
+  border-bottom: 1px solid #ddd;
+}
+.striped tbody tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+.table-all tr:nth-child(odd) {
+  background-color: #fff;
+}
+.table-all tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+/* Tables end */
