@@ -280,7 +280,7 @@ select {
 
 /* inputs */
 
-/* buttons */
+/* buttons start */
 .button-primary {
   color: white;
   background-color: #4caf50;
@@ -330,4 +330,4 @@ select {
   cursor: pointer;
 }
 
-/* Buttons */
+/* Buttons end*/
