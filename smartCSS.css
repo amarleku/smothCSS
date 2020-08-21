@@ -372,6 +372,53 @@ select {
 }
 /* Container-Fluid */
 .container {
-    padding: 0.90em 16px;
-  }
+  padding: 0.9em 16px;
+}
 /* End Container */
+
+/* background Colors */
+.red {
+  color: #fff !important;
+  background-color: #f44336 !important;
+}
+.green {
+  color: #fff !important;
+  background-color: #2ecc71 !important;
+}
+.blue {
+  color: #fff !important;
+  background-color: #3498db !important;
+}
+.purple {
+  color: #fff !important;
+  background-color: #9b59b6 !important;
+}
+.wet-asplaht {
+  color: #fff !important;
+  background-color: #34495e !important;
+}
+.green-sea {
+  color: #fff !important;
+  background-color: #16a085 !important;
+}
+.clouds {
+  color: #34495e !important;
+  background-color: #ecf0f1 !important;
+}
+.concrete {
+  color: #fff !important;
+  background-color: #95a5a6 !important;
+}
+.pomegrante {
+  color: #fff !important;
+  background-color: #c0392b !important;
+}
+.pumpkin {
+  color: #fff !important;
+  background-color: #d35400 !important;
+}
+.orange {
+  color: #fff !important;
+  background-color: #f39c12 !important;
+}
+/* Background colors */
