@@ -710,6 +710,14 @@ th {
   margin-right: -15px;
   margin-left: -15px;
 }
+.row-no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row-no-gutters [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
 /* Row Ends here */
 /* Col */
 .col-lg-1,
