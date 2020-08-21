@@ -1,5 +1,24 @@
 {
     "name": "SmothCSS",
     "version": "1.0.0",
-    "description": "Minimalistic CSS library Designed by code"
+    "description": "Minimalistic CSS library Designed by code",
+    "main": "index.js",
+    "module": "index.js",
+    "browser": "index.js",
+    "typings": "index.js",
+    "files": [],
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amarleku/smothCSS"
+    },
+    "keywords": [
+        "css"
+    ],
+    "author": "Astrit",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/amarleku/smothCSS/issues"
+    },
+    "homepage": "..."
 }
