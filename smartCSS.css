@@ -1589,7 +1589,7 @@ checkbox,
 
 .checkbox:hover .icon-checkbox,
 .radio:hover .icon-radio {
-  border-color: var(--primary);
+  border-color: #3498db;
 }
 
 .checkbox input[type="checkbox"]:checked + i:after,
@@ -1600,7 +1600,7 @@ checkbox,
   left: 6px;
   height: 8px;
   width: 8px;
-  background: var(--primary);
+  background: #3498db;
 }
 
 .checkbox input[type="checkbox"]:disabled + i,
