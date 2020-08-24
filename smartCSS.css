@@ -1512,3 +1512,46 @@ textarea.form-control {
 }
 /* col */
 
+/* radio and checkbox */
+
+.checkbox-xs.indent,
+.radio-xs.indent {
+  padding-left: 25px;
+}
+.checkbox-xs.indent .icon-checkbox,
+.checkbox-xs.indent .icon-radio,
+.radio-xs.indent .icon-checkbox,
+.radio-xs.indent .icon-radio {
+  margin-left: -25px;
+}
+
+.checkbox-xs input[type="checkbox"]:checked + i:after,
+.checkbox-xs input[type="radio"]:checked + i:after,
+.radio-xs input[type="checkbox"]:checked + i:after,
+.radio-xs input[type="radio"]:checked + i:after {
+  top: 4px;
+  left: 4px;
+  height: 6px;
+  width: 6px;
+}
+
+.radio input[type="radio"] + i {
+  border-radius: 50%;
+}
+
+.radio input[type="radio"]:checked + .icon-radio:after {
+  border-radius: 50%;
+}
+
+/* radio and checkbox */
+
+/* Disable a */
+.disabled:hover {
+  cursor: not-allowed;
+}
+
+.disabled {
+  cursor: not-allowed;
+}
+
+/* Disable a */
