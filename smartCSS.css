@@ -1556,20 +1556,25 @@ textarea.form-control {
 checkbox,
 .radio {
   display: inline-block;
-  margin-bottom: 15px; }
-  .checkbox:hover,
-  .radio:hover {
-    cursor: pointer; }
+  margin-bottom: 15px;
+}
+.checkbox:hover,
+.radio:hover {
+  cursor: pointer;
+}
 
 .indent {
-  padding-left: 30px; }
-  .indent .icon-checkbox,
-  .indent .icon-radio {
-    margin-left: -30px; }
+  padding-left: 30px;
+}
+.indent .icon-checkbox,
+.indent .icon-radio {
+  margin-left: -30px;
+}
 
 .checkbox input[type="checkbox"],
 .radio input[type="radio"] {
-  display: none; }
+  display: none;
+}
 
 .icon-checkbox,
 .icon-radio {
@@ -1579,11 +1584,13 @@ checkbox,
   display: inline-block;
   border: 1px solid #ddd;
   position: relative;
-  bottom: -3px; }
+  bottom: -3px;
+}
 
 .checkbox:hover .icon-checkbox,
 .radio:hover .icon-radio {
-  border-color: var(--primary); }
+  border-color: var(--primary);
+}
 
 .checkbox input[type="checkbox"]:checked + i:after,
 .radio input[type="radio"]:checked + i:after {
@@ -1593,21 +1600,26 @@ checkbox,
   left: 6px;
   height: 8px;
   width: 8px;
-  background: var(--primary); }
+  background: var(--primary);
+}
 
 .checkbox input[type="checkbox"]:disabled + i,
 .radio input[type="radio"]:disabled + i {
-  border-color: #eee; }
+  border-color: #eee;
+}
 
 .checkbox input[type="checkbox"]:disabled:checked + i:after,
 .radio input[type="radio"]:disabled:checked + i:after {
-  background-color: #999; }
+  background-color: #999;
+}
 
 /*Radio CSS*/
 .radio input[type="radio"] + i {
-  border-radius: 50%; }
+  border-radius: 50%;
+}
 
 .radio input[type="radio"]:checked + .icon-radio:after {
-  border-radius: 50%; }
+  border-radius: 50%;
+}
 
 /* Disable a */
