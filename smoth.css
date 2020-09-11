@@ -1624,6 +1624,23 @@ textarea.form-control {
 .bg-deep-pink-opacity {background-color: rgba(255, 33, 79, 0.85);}
 .bg-charcoal-gray{background-color: #0e0f10;}
 
+/* ===================================
+    Custom
+====================================== */
+
+.center-col {float:none; margin-left:auto; margin-right:auto }
+section {padding: 130px 0; overflow: hidden;}
+section.big-section {padding:160px 0;}
+section.extra-big-section {padding:200px 0;}
+section.half-section {padding:80px 0;}
+.overlap-section {margin-top:-14%; position: relative}
+.col-2-nth .col-md-6:nth-child(2n+1) {clear: left;}
+.col-2-nth .col-sm-6:nth-child(2n+1) {clear: left;}
+.col-3-nth .col-md-4:nth-child(3n+1) {clear: left;}
+.col-3-nth .col-sm-4:nth-child(3n+1) {clear: left;}
+.col-4-nth .col-md-3:nth-child(4n+1) {clear: left;}
+.col-4-nth .col-sm-3:nth-child(4n+1) {clear: left;}
+
 /* radio and checkbox */
 
 .checkbox-xs.indent,
