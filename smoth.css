@@ -7990,12 +7990,10 @@ a.likes-count span {
 .social-icon-style-11 a:hover {
   color: #fff;
 }
-*
-  ===================================
+/* ===================================
   Magnific
   popup
-  ======================================
-  */
+  ======================================*/
   .mfp-bg,
 .my-mfp-zoom-in.mfp-ready.mfp-bg,
 .my-mfp-slide-bottom.mfp-ready.mfp-bg {
