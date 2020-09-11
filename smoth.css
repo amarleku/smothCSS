@@ -1545,6 +1545,61 @@ textarea.form-control {
 .font-weight-800 {font-weight:800}
 .font-weight-900 {font-weight:900}
 
+/* text property */
+.text-transform-unset {text-transform:unset}
+.text-decoration-underline {text-decoration:underline; }
+.text-decoration-line-through {text-decoration:line-through;}
+.line-height-unset {line-height: unset}
+.line-height-normal {line-height: normal}
+.line-height-none {line-height:0}
+.word-wrap {word-wrap: break-word}
+.text-nowrap{white-space: nowrap;}
+.text-transform-none {text-transform:none}
+.title-line-through {padding: 0 15px}
+.text-middle-line {position: relative; white-space: nowrap}
+.text-outside-line {position: relative}
+.text-outside-line::before {border-top: 1px solid; content: ""; height: 0; left: auto; position: absolute; right: -60px; top: 50%; width: 40px; opacity: .4; }
+.text-outside-line::after {border-top: 1px solid; content: ""; height: 0; left: auto; position: absolute; left: -60px; top: 50%; width: 40px; opacity: .4; }
+.text-leftside-line {position: relative; padding-left: 35px }
+.text-leftside-line:before {border-top: 1px solid; content: ""; height: 0; left: auto; position: absolute; left: 0; top: 45%; width: 25px; opacity: .7}
+.text-outside-line-full {position: relative; display: inline-block}
+.text-outside-line-full::before {content: ""; position: absolute; top: 50%; height: 1px; width: 99%; display: block; border-bottom:1px solid; right: 100%; margin-right: 25px; opacity: .15}
+.text-outside-line-full::after {content: ""; position: absolute; top: 50%; height: 1px; width: 99%; display: block; border-bottom:1px solid; left: 100%; margin-left: 25px; opacity: .15 }
+.text-middle-line:before {border-bottom: 1px solid; position: absolute; content: ""; width: 100%; top: 53%; opacity: 0.35}
+.text-bottom-line {width: 1px; border-top: 30px solid; margin-left: auto; margin-right: auto;}
+.text-middle-line-deep-pink:before {border-bottom: 1px solid #ff214f; position: absolute; content: ""; width: 100%; margin-top: 5px; margin-left: -20px; top: 50%; -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%);}
+.text-decoration-line-through-black,.text-decoration-line-through-deep-pink {position: relative;}
+.text-decoration-line-through-deep-pink:before {background: #ff214f;}
+.text-decoration-line-through-black:before {background: #000;}
+.text-decoration-line-through-black::before,.text-decoration-line-through-deep-pink:before {content: ""; height: 1px; left: -10px; position: absolute; top: 53%; width: calc(100% + 20px);-webkit-transform: translateY(-53%); -moz-transform: translateY(-53%); -ms-transform: translateY(-53%); -o-transform: translateY(-53%); transform: translateY(-53%);}
+
+/* line height */
+.line-height-10 {line-height:10px}
+.line-height-13 {line-height:13px}
+.line-height-18 {line-height:18px}
+.line-height-20 {line-height:20px}
+.line-height-24 {line-height:24px}
+.line-height-22 {line-height:22px}
+.line-height-26 {line-height:26px}
+.line-height-28 {line-height:28px}
+.line-height-30 {line-height:30px}
+.line-height-35 {line-height:35px}
+.line-height-40 {line-height:40px}
+.line-height-45 {line-height:45px}
+.line-height-50 {line-height:50px}
+.line-height-55 {line-height:55px}
+.line-height-60 {line-height:60px}
+.line-height-65 {line-height:65px}
+.line-height-70 {line-height:70px}
+.line-height-75 {line-height:75px}
+.line-height-80 {line-height:80px}
+.line-height-85 {line-height:85px}
+.line-height-90 {line-height:90px}
+.line-height-95 {line-height:95px}
+.line-height-100 {line-height:100px}
+.line-height-110 {line-height:110px}
+.line-height-120 {line-height:120px}
+
 /* radio and checkbox */
 
 .checkbox-xs.indent,
